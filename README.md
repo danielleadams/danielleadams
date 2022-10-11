@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello
+
+I'm a software engineer, public speaker, and open source contributor that is based in New York City.
+
+I have been coding since I was 12 years old. After years of dabbling, I eventually made my way into a software engineer role. I have since been working on platforms that help people do their jobs with the help of software.
+
+I'm currently a software engineer at Amazon Web Services, where I work on the CLI tool for AWS Amplify. Additionally, I am a Node.js release and Techical Steering Committee member. I haven't met a JavaScript library I don't like.
 
 <!--
 **danielleadams/danielleadams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
